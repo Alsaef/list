@@ -1,9 +1,9 @@
 document.getElementById("mr").innerHTML = "√";
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
-document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("ra").innerHTML = "";
+document.getElementById("y").innerHTML = "";
+document.getElementById("h").innerHTML = "";
+document.getElementById("f").innerHTML = "";
+document.getElementById("si").innerHTML = "";
+document.getElementById("m").innerHTML = "";
+document.getElementById("R").innerHTML = "";
+document.getElementById("s").innerHTML = "";
