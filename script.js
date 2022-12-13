@@ -1,0 +1,9 @@
+document.getElementById("mr").innerHTML = "√";
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 6;
